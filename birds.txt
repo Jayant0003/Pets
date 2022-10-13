@@ -1,3 +1,5 @@
 parrot
 sparrow
 eagle
+hen
+duck
