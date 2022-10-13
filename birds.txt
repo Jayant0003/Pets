@@ -3,3 +3,6 @@ sparrow
 eagle
 hen
 duck
+crow
+kite
+hummingbird
